@@ -1,0 +1,5 @@
+{
+	"editor.autoIndent": "advanced",
+	"editor.defaultFoldingRangeProvider": "formulahendry.auto-close-tag",
+	"editor.defaultFormatter": "formulahendry.auto-close-tag"
+}
